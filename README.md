@@ -48,4 +48,18 @@ The application follows a three-tier architecture:
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally on your system.
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/civitas.git
+cd civitascd server
+npm install
+cd client
+npm install
+npm run dev
