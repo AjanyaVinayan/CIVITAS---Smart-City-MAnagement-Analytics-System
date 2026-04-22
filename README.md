@@ -1,5 +1,6 @@
 # 🚀 CIVITAS  
 ### Smart City Complaint Management and Analytics System
+DEMO https://civitas-frontend.vercel.app/
 
 CIVITAS is a full-stack web application designed to streamline civic complaint management in smart cities. It enables citizens to report issues while allowing administrators and staff to manage, track, and resolve complaints efficiently through a centralized platform.
 
